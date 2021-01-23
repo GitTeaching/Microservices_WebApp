@@ -8,4 +8,4 @@ BAsed on freeCodeCamp Full course : https://www.youtube.com/watch?v=0iB5IPoTDts
 
 ## System Architecture - Setup :
 
-<img src="https://github.com/GitTeaching/Microservices_WebApp/blob/master/Architecture.png" width="700">
+<img src="https://github.com/GitTeaching/Microservices_WebApp/blob/master/Architecture.png" width="500">
