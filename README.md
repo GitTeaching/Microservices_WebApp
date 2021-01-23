@@ -1,6 +1,6 @@
 # Microservices_WebApp
 
-Python **Microservices** Web App - Backend (with **Django, Flask, RabbitMQ, and Docker/Docker Compose**).
+Python **Microservices** web application - Backend side (with **Django, Flask, RabbitMQ, and Docker/Docker Compose**).
 
 Based on freeCodeCamp Full course : https://www.youtube.com/watch?v=0iB5IPoTDts
 
