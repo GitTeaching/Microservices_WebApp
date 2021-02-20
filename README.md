@@ -8,4 +8,4 @@ Based on freeCodeCamp Full course : https://www.youtube.com/watch?v=0iB5IPoTDts
 
 ### Architecture :
 
-<img src="https://github.com/GitTeaching/Microservices_WebApp/blob/master/Architecture.png" width="500">
+<img src="https://github.com/GitTeaching/Microservices_WebApp/blob/master/Architecture.png" width="600">
